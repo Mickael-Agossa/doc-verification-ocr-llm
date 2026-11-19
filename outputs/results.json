@@ -1,0 +1,222 @@
+[
+  {
+    "score": 1.0,
+    "decision": "accept",
+    "fields": [
+      {
+        "field": "surname",
+        "extracted": "DRASKOV",
+        "declared": "DRASKOV",
+        "similarity": 1.0
+      },
+      {
+        "field": "given_names",
+        "extracted": "Dessa",
+        "declared": "Dessa",
+        "similarity": 1.0
+      },
+      {
+        "field": "birth_date",
+        "extracted": "28/12/1959",
+        "declared": "28/12/1959",
+        "similarity": 1.0
+      },
+      {
+        "field": "birth_place",
+        "extracted": "Port Ember",
+        "declared": "Port Ember",
+        "similarity": 1.0
+      },
+      {
+        "field": "doc_number",
+        "extracted": "FL1819600",
+        "declared": "FL1819600",
+        "similarity": 1.0
+      },
+      {
+        "field": "expiry_date",
+        "extracted": "13/04/2027",
+        "declared": "13/04/2027",
+        "similarity": 1.0
+      }
+    ],
+    "id": "card_000",
+    "injected_error": null
+  },
+  {
+    "score": 0.9714,
+    "decision": "accept",
+    "fields": [
+      {
+        "field": "surname",
+        "extracted": "QUILLON",
+        "declared": "QULILON",
+        "similarity": 0.857
+      },
+      {
+        "field": "given_names",
+        "extracted": "Iven",
+        "declared": "Iven",
+        "similarity": 1.0
+      },
+      {
+        "field": "birth_date",
+        "extracted": "29/05/1958",
+        "declared": "29/05/1958",
+        "similarity": 1.0
+      },
+      {
+        "field": "birth_place",
+        "extracted": "Port Ember",
+        "declared": "Port Ember",
+        "similarity": 1.0
+      },
+      {
+        "field": "doc_number",
+        "extracted": "FL8637940",
+        "declared": "FL8637940",
+        "similarity": 1.0
+      },
+      {
+        "field": "expiry_date",
+        "extracted": "14/06/2029",
+        "declared": "14/06/2029",
+        "similarity": 1.0
+      }
+    ],
+    "id": "card_001",
+    "injected_error": "typo"
+  },
+  {
+    "score": 0.8,
+    "decision": "review",
+    "fields": [
+      {
+        "field": "surname",
+        "extracted": "OSTRAND",
+        "declared": "OSTRAND",
+        "similarity": 1.0
+      },
+      {
+        "field": "given_names",
+        "extracted": "Elio Cosmo",
+        "declared": "Elio Cosmo",
+        "similarity": 1.0
+      },
+      {
+        "field": "birth_date",
+        "extracted": "28/04/1964",
+        "declared": "28/04/1965",
+        "similarity": 0.0
+      },
+      {
+        "field": "birth_place",
+        "extracted": "Port Ember",
+        "declared": "Port Ember",
+        "similarity": 1.0
+      },
+      {
+        "field": "doc_number",
+        "extracted": "FL5116155",
+        "declared": "FL5116155",
+        "similarity": 1.0
+      },
+      {
+        "field": "expiry_date",
+        "extracted": "30/10/2034",
+        "declared": "30/10/2034",
+        "similarity": 1.0
+      }
+    ],
+    "id": "card_002",
+    "injected_error": "date"
+  },
+  {
+    "score": 0.735,
+    "decision": "review",
+    "fields": [
+      {
+        "field": "surname",
+        "extracted": "VARNEL",
+        "declared": "VARNEL",
+        "similarity": 1.0
+      },
+      {
+        "field": "given_names",
+        "extracted": "lven Brenn",
+        "declared": "Iven Brenn",
+        "similarity": 0.9
+      },
+      {
+        "field": "birth_date",
+        "extracted": "29/02/2004",
+        "declared": "29/02/2004",
+        "similarity": 1.0
+      },
+      {
+        "field": "birth_place",
+        "extracted": "Stonehaven",
+        "declared": "Stonehaven",
+        "similarity": 1.0
+      },
+      {
+        "field": "doc_number",
+        "extracted": "FL1849593",
+        "declared": "FL1849596",
+        "similarity": 0.0
+      },
+      {
+        "field": "expiry_date",
+        "extracted": "19/12/2029",
+        "declared": "19/12/2029",
+        "similarity": 1.0
+      }
+    ],
+    "id": "card_003",
+    "injected_error": "number"
+  },
+  {
+    "score": 1.0,
+    "decision": "accept",
+    "fields": [
+      {
+        "field": "surname",
+        "extracted": "QUILLON",
+        "declared": "QUILLON",
+        "similarity": 1.0
+      },
+      {
+        "field": "given_names",
+        "extracted": "Brenn Dessa",
+        "declared": "Brenn Dessa",
+        "similarity": 1.0
+      },
+      {
+        "field": "birth_date",
+        "extracted": "29/03/1956",
+        "declared": "29/03/1956",
+        "similarity": 1.0
+      },
+      {
+        "field": "birth_place",
+        "extracted": "Northvale",
+        "declared": "Northvale",
+        "similarity": 1.0
+      },
+      {
+        "field": "doc_number",
+        "extracted": "FL6475255",
+        "declared": "FL6475255",
+        "similarity": 1.0
+      },
+      {
+        "field": "expiry_date",
+        "extracted": "07/07/2027",
+        "declared": "07/07/2027",
+        "similarity": 1.0
+      }
+    ],
+    "id": "card_004",
+    "injected_error": null
+  }
+]
